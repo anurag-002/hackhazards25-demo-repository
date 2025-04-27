@@ -10,7 +10,7 @@
 
 ## 📌 Problem Statement
 
-**Problem Statement 3 – Build a Fun AI Experience with Groq**
+**Problem Statement 1 - Weave AI magic with groq
 
 ---
 
